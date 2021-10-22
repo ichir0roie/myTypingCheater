@@ -1,0 +1,558 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>タイピング診断 | タイピング練習の「マイタイピング」</title>
+<base href="https://typing.twi1.me/" />
+<meta name="description" content="タイピング練習ゲーム「10月のタイピング診断」です。" />
+<meta name="keywords" content="タイピング,練習,10月のタイピング診断" />
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+
+<!-- ogp -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="" />
+<meta property="og:site_name" content="タイピング練習の「マイタイピング」" />
+<meta property="og:description" content="タイピング練習ゲーム「10月のタイピング診断」です。" />
+<meta property="og:image" content="https://typing.twi1.me/img/series/70161/backgroundImage1-43.jpg?mt=1632806929" />
+<meta property="og:image:width" content="728" />
+<meta property="og:image:height" content="455" />
+<meta name="twitter:card" content="summary">
+
+<link href="https://fonts.googleapis.com/css?family=Anonymous+Pro|Roboto+Mono&display=swap" rel="stylesheet"><link rel="preload" as="font" type="font/woff2" href="/fonts/mtj-font-round.woff2?186" crossorigin>
+<link rel="preload" as="image" type="image/png" href="/img/index/menu_sprite3.png?v=214" crossorigin>
+<link href="/css/common.min.css?v=223" rel="stylesheet" type="text/css" />
+<link href="/css/typing.css?v=223" rel="stylesheet" type="text/css" />
+
+<style>@charset "utf-8";#commentTitle{margin-bottom:5px}#commentForm{margin-bottom:20px}#commentList{margin-top:10px}#commentList .largeMoreButton{margin-top:10px}#commentDescription{padding:3px;margin-left:20px;width:658px;height:100px}.inputBox .commentFormBottom{width:687px;margin-top:10px}.inputBox .commentFormBottom .note{max-width:560px}.inputBox .commentFormButton{float:right;text-align:right}.inputBox .note{float:left;text-align:left;font-size:1.4rem;color:#66f;//padding-left:5px;line-height:150%;//margin:10px 0 10px 30px;//padding:0 0 10px 20px;margin:0 0 10px 20px;//padding-left:1em;//text-indent:-1em}.isNeedLoginComment #commentDescription{color:#66f;background:linear-gradient(to bottom,#fff,#fff)}#comments{border:1px solid #ccc;border-radius:10px;padding:10px}#comments .comment{border-top:1px dashed #ccc;padding:10px 0 10px 0;color:#666}#comments .comment:first-child{border-top:0}#comments .commentInfo{margin-right:5px;position:relative}#comments .commentNo{display:inline-block;float:left;text-align:center;font-size:14px;font-weight:bold;margin-left:5px;min-width:30px}#comments .commentUser{display:inline-block;float:left;margin-left:5px}#comments .commenterName{color:#090}#comments .commentDescription{margin-top:5px;margin-left:30px;padding:5px;padding-right:0;line-height:150%;word-break:break-all;word-wrap:anywhere}#comments .commenterId{font-size:1.2rem;color:#999}#comments .commentCreatedTime{float:right;font-size:1.2rem;color:#999;padding-top:3px}#comments .commentControl{text-align:right;visibility:hidden;//float:right}#comments .controlIcon{position:relative;display:inline-block;background:url("/img/index/menu_sprite3.png?v=214") no-repeat;width:20px;height:20px;background-position:-350px 0;cursor:pointer}#comments .controlIcon.commentControlReply{background-position-x:-350px}#comments .controlIcon.commentControlDelete{background-position-x:-416px}#comments .controlIcon.commentControlReport{background-position-x:-716px}#comments .controlIcon:hover{background-position-y:-22px}#comments .commentNoJump{color:#00f}#comments .commentReplyNo{color:#03b1f3;font-weight:bold;cursor:pointer;//text-decoration:underline}#comments .replyBox .commentDescription{margin-left:10px}#comments .replyBox{background-color:#fcfcfc;border-left:1px solid #CCB;padding-left:3px;display:none}#comments .error{color:#090}.returnData{position:relative;margin-top:10px;padding-top:1px;margin-bottom:20px}.returnData .pageControl{margin-top:45px}.returnData .userInputSubmit{position:absolute;right:0;top:0}.returnData .pageControl .prevButton{margin-top:10px;margin-right:10px}.returnData .pageControl .nextButton{margin-top:10px;margin-left:10px}@media screen and (max-width:729px){#comments{padding-left:0;padding-right:0}#comments .comment{padding-right:10px}#comments .commentDescription{margin-left:10px}#commentDescription{padding:3px;margin-left:0;width:100%;height:100px;box-sizing:border-box}.inputBox .commentFormBottom{width:100%;margin-top:5px}.inputBox .note{margin:0 0 5px 0}.returnData .pageControl .prevButton{margin-top:0;margin-right:0}.returnData .pageControl .nextButton{margin-top:0;margin-left:0}}@media(hover:none){#comments .commentControl,#twitterTimeLine .tweetControl{visibility:visible}}@charset "utf-8";#twitterTimeLine .tweets{font-size:1.4rem;text-align:left;background:#fff;padding-top:10px}#twitterTimeLine .tweets .title{margin-bottom:10px;background-position:bottom}#twitterTimeLine .tweets .more{text-align:right;margin-right:15px}#twitterTimeLine .tweets .noTweet{font-size:2.0rem;font-weight:bold;color:#666;margin-bottom:15px}#twitterTimeLine .tweet{border-bottom:1px dashed #ccc;padding-bottom:5px;margin-bottom:10px;margin-left:5px}#twitterTimeLine .tweet .tweetInfo .message{margin:0;margin-top:3px}#twitterTimeLine .tweet .image{float:left;margin-right:8px}#twitterTimeLine .tweet .image img{width:48px;height:48px}#twitterTimeLine .tweet .tweetInfo{float:left;width:640px;color:#333;font-size:1.2rem}#twitterTimeLine .tweet .tweetInfo .message{font-size:1.5rem;line-height:19px;margin-bottom:2px}#twitterTimeLine .tweetInfoTop{margin-bottom:3px}#twitterTimeLine .tweetInfoTop .userName{font-size:1.4rem}#twitterTimeLine .tweetInfoTop .screenName{color:#999}#twitterTimeLine .tweetInfo .hashTagLink{color:#999}#twitterTimeLine .tweetInfo .time{color:#999;padding-left:5px}#twitterTimeLine .tweetInfoTop .right{width:270px;margin-top:2px;float:right;text-align:right}#twitterTimeLine{margin-top:10px}#twitterTimeLine .tweetsArea{overflow:auto}#twitterTimeLine .tweetControl{text-align:right;visibility:hidden}#twitterTimeLine .controlIcon{position:relative;display:inline-block;background:url("/img/index/menu_sprite3.png?v=214") no-repeat;width:20px;height:20px;background-position:-350px 0}#twitterTimeLine .controlIcon.tweetControlReply{background-position-x:-350px}#twitterTimeLine .controlIcon.tweetControlRetweet{background-position-x:-372px}#twitterTimeLine .controlIcon.tweetControlFavorite{background-position-x:-394px}#twitterTimeLine .controlIcon.tweetControlReport{background-position-x:-716px}#twitterTimeLine .controlIcon:hover{background-position-y:-22px}#twitterTimeLine .tweetTitle:before{background:url(/img/index/icon_twitter_white.png?v=102) no-repeat;width:23px;height:19px}#twitterTimeLine .tweetTitle a{color:#555}#twitterTimeLine .tweetTitle a:hover{color:#f39}#twitterTimeLine .tweetTitle img{vertical-align:middle;margin-top:-4px;margin-right:3px}#twitterTimeLine .newTweet{background:#eee;padding:5px 10px;margin-left:5px}#twitterTimeLine .newTweet a{background:#fff;border:1px solid #CCC;border-radius:4px 4px 4px 4px;display:block;padding:5px;text-align:left;color:#666}#twitterTimeLine .newTweet a:hover{color:#999;border:1px solid #00acee}#twitterTimeLine .moreTweet{margin-left:5px}#twitterTimeLine .moreTweetButton{background:#eef;margin:auto;padding:10px 0;text-align:center;cursor:pointer;background:linear-gradient(to bottom,#eee,#fff)}#twitterTimeLine .moreTweetButton:hover{color:#f39;background:linear-gradient(to bottom,#eef,#fff)}#twitterTimeLine .noMoreTweet{color:#999;margin:auto;padding:10px 0;text-align:center}@media screen and (max-width:729px){#twitterTimeLine .tweet .tweetInfo{width:auto}}@charset "utf-8";#listArea .box{position:relative;margin-bottom:5px}#mtjAutoArea{width:728px;min-height:479px;position:static}#gameInfo{text-align:left;margin:15px 0;background-color:#eef;border:1px solid #617be3;border-radius:10px 10px 10px 10px;line-height:150%;padding:10px;padding-top:8px;text-align:left}#gameInfo .labelBlue2{top:-1px}#gameInfo #gameInfoHead{line-height:200%}#gameInfo .musicInfo{line-height:200%}#gameInfo .musicInfoOne{line-height:150%;margin-left:20px}#gameInfo .tagNames{line-height:200%}#gameInfo .description{margin-bottom:10px;word-break:break-all;word-wrap:anywhere}#gameInfo #gameInfoHead .ownerImage{width:20px;height:20px;vertical-align:middle;margin-right:3px}#gameInfo #gameInfoHead img{margin-bottom:3px}#gameInfo .rankingLink{margin-left:5px;margin-bottom:3px}#gameInfo .musicInfo img{margin-bottom:3px}#gameInfo .tagNames img{margin-bottom:3px}#musicInfoNotice{margin:5px;margin-bottom:15px;font-size:1.3rem;color:#666}#gameInfo #gameInfoTail,#questionBoxTail{font-size:1.3rem;line-height:100%;text-align:right;padding-bottom:0}#gameInfo .gameLength{padding-right:5px}#questionList{display:none}#questionListTable{border-collapse:collapse;border-spacing:0;margin:10px;margin-left:30px;border:1px solid #5b9fff}#questionListTable th{padding:5px;border:1px solid #5b9fff;color:#05f;background-color:#cfe3fa;text-align:center}#questionListTable td{padding:5px;border:1px solid #5b9fff;background-color:#fff}#questionListHiddenLink{display:none}#trainingLink{margin-top:5px}#trainingLink img{vertical-align:middle;margin-right:5px;border:1px solid #99f}.pr728x90_middle{margin-top:0;margin-bottom:20px}#gameTopButtons .right{margin-bottom:5px}.tagNames .labelTag{margin-bottom:4px}#rankingTail{margin:5px 3px 15px 0;text-align:right}#rankingTail .note{float:left}#rankingTail:after{content:"";display:block;clear:both}#rankingTail .textButton{display:inline-block;margin-bottom:5px}#questionWords{text-align:left;margin:0;margin-top:15px;background-color:#fff;border:1px solid #617be3;border-radius:10px 10px 10px 10px;line-height:150%;padding:10px;padding-top:8px;text-align:left}.questionWord{color:#333;padding:3px 5px}#flashAd{position:absolute;z-index:99998;left:20px;top:20px;display:none}#flashAd .adFromSwfText{text-align:right;font-size:1.1rem;color:#333;margin-right:5px}#bookmarkArea{position:relative}#moveBookmarkPopup{position:absolute;background-color:#f0f8ff;border:1px solid #5b9fff;border-radius:10px;padding:10px 10px 5px;box-shadow:3px 3px 3px #ddf;z-index:99999;margin:0;right:0;top:0}#moveBookmarkPopupSelect:after{content:"";display:block;clear:both}#moveBookmarkListId{float:left;margin-bottom:5px}#moveBookmarkEndButton{float:right;margin-left:5px}#moveBookmarkPopupMessage{margin-bottom:10px}.bookmarkedHidden{font-size:1.0rem}#noFlashContentOuter{width:728px;height:455px;border:1px solid #000;text-align:center;display:table}#noFlashContentInner{display:table-cell;vertical-align:middle}#gameInfo .difficultyMeter{top:2px}.pr728x380_relation{margin-top:20px;margin-bottom:15px}#parentGame{border-radius:0;border:0;border-top:1px solid #ccf;margin:0;margin-top:10px;padding:0;padding-top:10px}#switchApp{margin-right:3px}#questionBox{position:relative}#questionBox .questions{font-size:1.6rem;margin:10px 5px 20px 20px;line-height:120%;color:#000;word-break:break-all;word-wrap:anywhere}#questionBox .questions p{margin:0;padding:0}#questionBox .moreQuestion,#showKanaQuestionsButton{display:none}#questionBox .blockQuestions .question{position:relative;margin-bottom:10px}#questionBox .questions .kana{font-size:1.4rem;color:#888}#questionBox .useMemo .kana,#questionBox .useMemo .kanji{width:500px}#questionBox .questions .memo{position:absolute;right:0;bottom:0;width:200px;text-align:right;color:#093}#questionBox .etc{color:#888}#questionBox .topRightButtons{position:absolute;top:10px;right:10px;font-size:1.2rem;line-height:100%}#questionBox .inlineQuestions .question{display:inline-block;margin-right:10px}#gameSpApp{box-sizing:border-box;//margin-top:10px;text-align:center;border:2px solid #333;overflow:hidden;border-radius:10px;width:100%;position:relative;padding:15px 0;background-position:center center;min-height:300px;margin-bottom:20px;position:relative}#gameSpApp .boxTitle{text-align:left;padding:5px;font-weight:bold;font-size:120%}#gameSpApp .gameSpBackgroundImage{position:absolute;left:0;top:0}.gameSpAppBox{box-sizing:border-box;border-radius:10px;border:1px solid #999;background-color:rgb(255,255,255,0.8);padding:10px 0;margin:10px auto;max-width:400px;position:relative}#gameSpApp .rectBtn{cursor:pointer;width:130px;font-size:1.8rem;background-color:#FFF;color:#1da1f2;padding:5px 3px;line-height:250%;border:2px solid #1da1f2;border-radius:5px;text-align:center;font-family:'mtjFontRound';transform:rotate(0.001deg)}#gameSpApp .rectBtn:hover,#gameSpApp .rectBtn:active{color:#f39;border-color:#f39;background-color:#fde}#gameSpApp .rectBtn svg{position:relative;display:inline-block;top:2px;margin:0 3px}#gameSpApp .rectBtn g{fill:#1da1f2}#gameSpApp .rectBtn:hover g,#gameSpApp .rectBtn:active g,#gameSpApp .rectBtn.mtjActive g{fill:#f39}@media screen and (max-width:339px){#gameSpApp .gameSpBackgroundImage{height:100%}}@media screen and (max-width:729px){#mtjAutoArea{min-height:0;position:relative}#questionBox .questions{margin-left:5px}}@media screen and (min-width:1048px){.mtjWideMode .mtjStage{transform:scale(1.43956,1.43956);//position:absolute;margin-left:160px;margin-top:100px;margin-bottom:110px}.mtjWideMode #sideArea{margin-top:740px}.mtjWideMode #gameTopButtons{width:1048px}.mtjWideMode #listArea .box .h1Yellow{width:1016px}.mtjWideMode .mtjHelpArea{margin-top:-5px}.mtjWideMode #sideArea .pr:first-child{display:none}}</style>
+
+
+<script defer type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script defer type="text/javascript" src="/js/common.min.js?v=223"></script>
+
+<script defer type="text/javascript" src="/js/index/game.min-all.js?v=223"></script>
+<script defer type="text/javascript" src="/js/typing.min.js?v=223"></script>
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-37028891-2', 'auto');
+ga('send', 'pageview');
+</script>
+
+<!--[if lte IE 8]><script type="text/javascript" src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+</head>
+<body >
+<header id="header">
+<a id="headerTitle" href="/" title="タイピング練習の「マイタイピング」"><div class="headerImage"></div><p id="siteCaption">作って遊べる<strong>無料タイピング練習</strong>サイト</p></a>
+<div id="loginUser">
+</div>
+<div id="menus">
+<div id="typingSearch"><form name="typingSearchForm" action="/list/"><input type="text" name="keyword" id="typingSearchInput" value="" maxlength="64" class="radiusFormText" /><a id="typingSearchButton" class="menuButton" href="javascript:void(0);" onclick="javascript:typingSearchForm.submit();return false;"><span>検索</span></a></form></div>
+<div id="menuButtons"><a id="menuTop" class="menuButton" href="/"><span><span class="onlySp">サイト</span>TOP</span></a><span id="menuJumpToTop" class="menuButton jumpToTop">▲ページトップ</span><div class="menuSpace onlySp"></div><a id="menuAbout" class="menuButton" href="/how-to/"><span>myTypingとは</span></a><a id="menuMake" class="menuButton" href="/make"><span>新規作成</span></a><a id="menuLogin" class="menuButton" href="/login.html"><span>ログイン</span></a></div>
+</div>
+<div id="mobileMenu">
+<span id="showMenuPanelButton" class="menuButton" onclick="javascript:showMenuPanel();">メニュー</span>
+<span id="closeMenuPanelButton" class="menuButton" onclick="javascript:closeMenuPanel();">閉じる</span>
+</div>
+</header>
+
+<div id="contents" >
+<div id="mainArea" >
+						<div class="pr pr728x90_top">
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- game_728x90_top -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:728px;height:90px"
+			     data-ad-client="ca-pub-7013678689652696"
+			     data-ad-slot="7730821600"></ins>
+			<script>
+			     (adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+				</div>
+
+			<div id="listArea" >
+		<div class="box">
+			<h1 class="h1Yellow">10月のタイピング診断</h1>
+			<div id="gameTopButtons">
+									<div class="left"><div id="socialButtons">
+	<div class="socialButton">
+
+	<div class="socialButton" id="twitterSocialButton">
+		<a class="tweetButton" href="https://twitter.com/intent/tweet?text=%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E8%A8%BA%E6%96%AD+%7C+%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E7%B7%B4%E7%BF%92%E3%81%AE%E3%80%8C%E3%83%9E%E3%82%A4%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E3%80%8D%0Ahttps%3A%2F%2Ftyping.twi1.me%2Fgame%2F70161" target="_blank" rel="nofollow">ツイート</a>
+			</div>
+
+			<a href="https://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic" title="このエントリーをはてなブックマークに追加" rel="nofollow"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+		</div>
+	<div class="socialButton" id="fb-share-button" data-href="https://typing.twi1.me/game/70161" a-href="https://www.facebook.com/sharer/sharer.php?u=https://typing.twi1.me%2Fgame%2F70161&amp;src=sdkpreparse"></div>
+
+	<div class="clear"></div>
+</div>
+</div>
+									<div class="right">
+						<span id="switchApp">
+															<a id="switchSpApp" class="textButton isJsSpOnly" style="display:none;" href="/switch-jf?key=app&jf=a&gameId=168470&" rel="nofollow,noindex">スマホアプリでプレイ</a>
+													</span>
+						<span id="bookmarkArea"><span id="addBookmarkButton" class="addBookmark textButton">お気に入り登録</span></span>
+					</div>
+				<div class="clear"></div>
+			</div>
+
+							<div id="mtjAutoArea" gameId="168470" >
+					<div class="mtjLoad">
+						<img src="/img/series/70161/backgroundImage1-43.jpg?mt=1632806929" />
+					</div>
+				</div>
+				<noscript>
+					<div class="noScript">
+						タイピング練習をするには、JavaScriptとCOOKIEを有効にして下さい。
+					</div>
+				</noscript>
+			
+		</div>
+
+					<div class="pr pr728x90_middle">
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- com_728x90_middle -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:728px;height:90px"
+			     data-ad-client="ca-pub-7013678689652696"
+			     data-ad-slot="2771847870"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+				</div>
+			<div id="gameInfo">
+			<div id="gameInfoHead">
+				<span class="labelBlue3 labelOwner"><span>投稿者</span></span><a href="/profile/userId/1"><img class="ownerImage userImageReload" src="/userdata/0/1/profile/thumbnail.png" /></a><a href="/profile/userId/1">マイタイピング公式</a>
+									&emsp;<span class="labelBlue3 labelGamePlay"><span>プレイ回数</span></span><span id="playCount">3824037</span>
+										&emsp;<span class="labelBlue3 labelGameBookmark"><span>お気に入り</span></span><a href="/bookmark-list/gameId/70161">6</a>							</div>
+
+			
+
+			<div class="tagNames">
+				<span class="labelBlue3 labelDifficulty"><span>難易度</span></span><span class="difficultyMeter" title="難易度：簡単 (1.8)"><span class="meter v10 key1"></span><span class="meter v8 key2"></span><span class="meter v0 key3"></span><span class="meter v0 key4"></span><span class="meter v0 key5"></span><span class="number">(1.8)</span></span>
+									<span class="gameLength">521打</span>
+				
+													<a class="tagName" href="/list?cs=1">かな</a>
+								
+										&emsp;<span class="labelBlue3"><span>タグ</span></span><a class="tagName" href="/list/tagName/%E5%85%AC%E5%BC%8F%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA">公式シリーズ</a> <a class="tagName" href="/list/tagName/%E5%85%AC%E5%BC%8F%E8%A8%BA%E6%96%AD">公式診断</a> 							</div>
+			<div class="caption">
+							</div>
+			<div class="description">
+															</div>
+
+			<div id="gameInfoTail">
+								<a class="functionButton" href="/correct-question/gameId/168470">誤字・脱字等の報告</a>
+				<a class="functionButton" href="/support/report/gameId/168470">違反の報告</a>
+							</div>
+
+							<div id="parentGame">
+					<div class="parentGameThumbnail">
+						<a href="/list/series/70161"><img class="thumbnail" src="/img/series/70161/image.png?mt=1601354463"></a>
+					</div>
+					<div class="parentGameInfo">
+						<h3><a href="/list/series/70161">タイピング診断</a></h3>
+						<div class="detail">
+							<div class="caption">タイピングの実力を判定しよう！</div>
+							<div class="description">(記号、英数字なし)<br>
+<br>
+基本的なキーを全て打てるように構成されたタイピングです。<br>
+文字数も多くないので、初心者の練習にも最適！<br>
+<br>
+毎月追加していきます！お楽しみに！<br>
+<br>
+◆60秒でタイピング診断(旧診断タイピング)は↓こちら<br>
+<a href="/game/3017">タイピング診断</a><br></div>
+						</div>
+						<div class="parentGameInfoTail">
+															<a class="textButton" href="/game/164303">&laquo; 前のタイピング</a>
+														<span class="space"></span>
+															<span class="textButtonDisabled">次のタイピング &raquo;</span>
+													</div>
+					</div>
+					<div class="clear"></div>
+				</div>
+					</div>
+
+		
+		
+					<div id="rankingBox" class="box">
+				<div id="rankingTableBox">
+	<table id="rankingTable">
+		<tr>
+			<th class="rtRank">順位</th>
+			<th class="rtPlayerName">名前</th>
+			<th class="rtScore">スコア</th>
+			<th class="rtLevel">称号</th>
+			<th class="rtSpeedText">打鍵/秒</th>
+			<th class="rtSuccessRate">正誤率</th>
+			<th class="rtPassedTime">時間(秒)</th>
+			<th class="rtRomaCount">打鍵数</th>
+			<th class="rtMissCount">ミス</th>
+			<th class="rtQuestion">問題</th>
+			<th class="rtDate">日付</th>
+		</tr>
+									<tr>
+								<td class="rtRank">1</td>
+					<td class="leftTd rtPlayerName">goe</td>
+					<td class="rtScore">10469</td>
+					<td class="leftTd rtLevel">神（SS++）</td>
+
+					<td class="rtSpeedText">10.9</td>
+										<td class="rtSuccessRate">96.0%</td>
+					<td class="rtPassedTime">46.9</td>
+					<td class="rtRomaCount">512</td>
+					<td class="rtMissCount">21</td>
+					<td class="rtQuestion">30</td>
+					<td class="rtDate smallStr">2021/10/15</td>
+			</tr>
+									<tr>
+								<td class="rtRank">2</td>
+					<td class="leftTd rtPlayerName">salieri</td>
+					<td class="rtScore">10062</td>
+					<td class="leftTd rtLevel">神（SS++）</td>
+
+					<td class="rtSpeedText">10.6</td>
+										<td class="rtSuccessRate">94.4%</td>
+					<td class="rtPassedTime">47.8</td>
+					<td class="rtRomaCount">511</td>
+					<td class="rtMissCount">30</td>
+					<td class="rtQuestion">30</td>
+					<td class="rtDate smallStr">2021/10/10</td>
+			</tr>
+									<tr>
+								<td class="rtRank">3</td>
+					<td class="leftTd rtPlayerName">a</td>
+					<td class="rtScore">9634</td>
+					<td class="leftTd rtLevel">神（SS++）</td>
+
+					<td class="rtSpeedText">9.8</td>
+										<td class="rtSuccessRate">98.0%</td>
+					<td class="rtPassedTime">52.0</td>
+					<td class="rtRomaCount">511</td>
+					<td class="rtMissCount">10</td>
+					<td class="rtQuestion">30</td>
+					<td class="rtDate smallStr">2021/10/02</td>
+			</tr>
+									<tr>
+								<td class="rtRank">4</td>
+					<td class="leftTd rtPlayerName">つへ”</td>
+					<td class="rtScore">8856</td>
+					<td class="leftTd rtLevel">神（SS++）</td>
+
+					<td class="rtSpeedText">9.2</td>
+										<td class="rtSuccessRate">95.6%</td>
+					<td class="rtPassedTime">55.1</td>
+					<td class="rtRomaCount">511</td>
+					<td class="rtMissCount">23</td>
+					<td class="rtQuestion">30</td>
+					<td class="rtDate smallStr">2021/10/03</td>
+			</tr>
+									<tr>
+								<td class="rtRank">5</td>
+					<td class="leftTd rtPlayerName">DALNI</td>
+					<td class="rtScore">8559</td>
+					<td class="leftTd rtLevel">神（SS++）</td>
+
+					<td class="rtSpeedText">8.7</td>
+										<td class="rtSuccessRate">98.2%</td>
+					<td class="rtPassedTime">59.0</td>
+					<td class="rtRomaCount">514</td>
+					<td class="rtMissCount">9</td>
+					<td class="rtQuestion">30</td>
+					<td class="rtDate smallStr">2021/10/07</td>
+			</tr>
+			</table>
+	</div>				<div id="rankingTail">
+											<a class="textButton rankingLink" href="/ranking?gameId=168470">ランキング一覧へ</a>
+									</div>
+			</div>
+		
+		
+											<div class="pr pr728x380_relation">
+				<!-- typing_728x380_relation -->
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<ins class="adsbygoogle"
+				     style="display:inline-block;width:728px;height:380px"
+				     data-ad-client="ca-pub-7013678689652696"
+				     data-ad-slot="2882619456"></ins>
+				<script>
+				     (adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</div>
+					
+					<div id="questionBox" class="contentsBox">
+									<h2>問題文</h2>
+								<div class="topRightButtons">
+					<span id="hideKanaQuestionsButton" class="functionButton">ふりがな非表示</span>
+					<span id="showKanaQuestionsButton" class="functionButton">ふりがな表示</span>
+				</div>
+													<div class="questions blockQuestions">
+																	<div class="question">
+							<p class="kana">(さけおにぎり)</p>
+							<p class="kanji">鮭おにぎり</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(さばのかんづめ)</p>
+							<p class="kanji">サバの缶詰</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(ふぉーくだんす)</p>
+							<p class="kanji">フォークダンス</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(ぱんぷきんすーぷ)</p>
+							<p class="kanji">パンプキンスープ</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(にくじゃが)</p>
+							<p class="kanji">肉じゃが</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(たいいくさい)</p>
+							<p class="kanji">体育祭</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(けいこうぺん)</p>
+							<p class="kanji">蛍光ペン</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(えいようそ)</p>
+							<p class="kanji">栄養素</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(ぴあにすと)</p>
+							<p class="kanji">ピアニスト</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(ちょうむすび)</p>
+							<p class="kanji">蝶結び</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(ゆめごこち)</p>
+							<p class="kanji">夢心地</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(あかいはね)</p>
+							<p class="kanji">赤い羽根</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(ながずぼん)</p>
+							<p class="kanji">長ズボン</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(やまのさち)</p>
+							<p class="kanji">山の幸</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(もばいるばってりー)</p>
+							<p class="kanji">モバイルバッテリー</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(こうぞうかいかく)</p>
+							<p class="kanji">構造改革</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(かまくらのだいぶつ)</p>
+							<p class="kanji">鎌倉の大仏</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(すいーとぽてと)</p>
+							<p class="kanji">スイートポテト</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(まつたけ)</p>
+							<p class="kanji">松茸</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(あかぐみとしろぐみ)</p>
+							<p class="kanji">紅組と白組</p>
+													</div>
+																									<div class="startQuestion etc">など</div>
+							<div class="moreQuestion">
+												<div class="question">
+							<p class="kana">(せんせいじゃなくてせんせいだよ)</p>
+							<p class="kanji">先生じゃなくて宣誓だよ</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(いいにゅーすとわるいにゅーすがあります)</p>
+							<p class="kanji">いいニュースと悪いニュースがあります</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(きせつのうつろいをかんじる)</p>
+							<p class="kanji">季節の移ろいを感じる</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(はろうぃんはなんのおまつりなんだろう)</p>
+							<p class="kanji">ハロウィンは何のお祭りなんだろう</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(はだざむいひがおおくなってきた)</p>
+							<p class="kanji">肌寒い日が多くなってきた</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(みのるほどこうべをたれるいなほかな)</p>
+							<p class="kanji">実るほど頭を垂れる稲穂かな</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(きのこたっぷりのわふうすぱげってぃ)</p>
+							<p class="kanji">キノコたっぷりの和風スパゲッティ</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(くらすたいこうりれーでだいかつやく)</p>
+							<p class="kanji">クラス対抗リレーで大活躍</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(りんごのかわをていねいにむく)</p>
+							<p class="kanji">りんごの皮を丁寧に剥く</p>
+													</div>
+																	<div class="question">
+							<p class="kana">(さわやかなあきかぜがきぎのあいだをふきぬけた)</p>
+							<p class="kanji">爽やかな秋風が木々の間を吹き抜けた</p>
+													</div>
+																</div>
+										</div>
+								<div id="questionBoxTail">
+
+											<span class="startQuestion"><span id="hideMoreQuestionsButton" class="functionButton">問題文を全て表示</span></span>
+						<span class="moreQuestion"><span id="showMoreQuestionsButton" class="functionButton">一部のみ表示</span></span>
+															<a class="functionButton" href="/correct-question/gameId/168470">誤字・脱字等の報告</a>
+									</div>
+			</div>
+		
+		
+					<div id="twitterTimeLine" class="box"></div>
+			</div>
+
+	<div id="sideArea">
+								<div class="pr pr300x250_top">
+
+					<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- game_300x250_top -->
+			<ins class="adsbygoogle"
+			     style="display:inline-block;width:300px;height:250px"
+			     data-ad-client="ca-pub-7013678689652696"
+			     data-ad-slot="5491192142"></ins>
+			<script>
+			     (adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
+				</div>
+
+											<h2 class="boxTop titleImage"><img src="/img/series/70161/miniThumbnail.png?mt=1601354463" class="miniThumbnail">タイピング診断</h2>
+	<div class="box">
+		<div class="games">
+			<ul>
+							<li><a href="/game/168470">&loz;10月のタイピング診断</a></li>
+							<li><a href="/game/164303">&loz;9月のタイピング診断</a></li>
+							<li><a href="/game/159698">&loz;8月のタイピング診断</a></li>
+							<li><a href="/game/155424">&loz;7月のタイピング診断</a></li>
+							<li><a href="/game/150729">&loz;6月のタイピング診断</a></li>
+							<li><a href="/game/146538">&loz;5月のタイピング診断</a></li>
+							<li><a href="/game/142615">&loz;4月のタイピング診断</a></li>
+							<li><a href="/game/139405">&loz;3月のタイピング診断</a></li>
+							<li><a href="/game/136739">&loz;2月のタイピング診断</a></li>
+							<li><a href="/game/133052">&loz;1月のタイピング診断</a></li>
+						</ul>
+							<div class="moreButton"><a href="/list/series/70161"><span>もっと見る</span></a></div>
+					</div>
+	</div>
+		
+		<div class="banner300"><a id="pleaseJoin" href="/user/regist/?b=1&pr=1" title="無料登録"></a></div>		<a class="rightButton" href="/training">タイピング練習講座</a>
+		<a class="rightButton" href="/training/roma-list?nr=1">ローマ字入力表</a>
+			<h2 class="boxTop titlePopular1">人気ランキング</h2>
+	<div class="box">
+		<div class="games">
+			<ul>
+							<li><a href="/game/3880">&loz;こどもタイピング</a></li>
+							<li><a href="/game/1622">&loz;あいうえお早打ち</a></li>
+							<li><a href="/game/134557">&loz;１２３４５６７８９０早打ち</a></li>
+							<li><a href="/game/109359">&loz;バナナ</a></li>
+							<li><a href="/game/133">&loz;五十音タイピング</a></li>
+							<li><a href="/game/3412">&loz;寿司打</a></li>
+							<li><a href="/game/163268">&loz;９９９９超連打大会</a></li>
+							<li><a href="/game/169954">&loz;サザエさん</a></li>
+							<li><a href="/game/144307">&loz;い連打大会</a></li>
+							<li><a href="/game/169389">&loz;母連打！</a></li>
+						</ul>
+							<div class="moreButton"><a href="/list/sort/rank/"><span>もっと見る</span></a></div>
+					</div>
+	</div>
+			<h2 class="boxTop titlePopular2">注目キーワード</h2>
+	<div class="box">
+		<ul class="keywords">
+							<li><a class="keyword" href="/list/tagName/%E6%AD%8C%E8%A9%9E">歌詞</a></li>
+							<li><a class="keyword" href="/list/tagName/%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BB%E3%83%9E%E3%83%B3%E3%82%AC">アニメ・マンガ</a></li>
+							<li><a class="keyword" href="/list/tagName/%E3%83%9C%E3%82%AB%E3%83%AD">ボカロ</a></li>
+							<li><a class="keyword" href="/list/tagName/%E9%9F%B3%E6%A5%BD">音楽</a></li>
+							<li><a class="keyword" href="/list/tagName/%E3%82%A2%E3%83%8B%E3%83%A1">アニメ</a></li>
+							<li><a class="keyword" href="/list/tagName/%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0">タイピング</a></li>
+							<li><a class="keyword" href="/list/tagName/%E6%9B%B2">曲</a></li>
+							<li><a class="keyword" href="/list/tagName/%E3%82%B8%E3%83%A3%E3%83%8B%E3%83%BC%E3%82%BA">ジャニーズ</a></li>
+							<li><a class="keyword" href="/list/tagName/%E9%95%B7%E6%96%87">長文</a></li>
+							<li><a class="keyword" href="/list/tagName/%E3%82%BF%E3%82%A4%E3%83%94%E3%83%B3%E3%82%B0%E7%B7%B4%E7%BF%92">タイピング練習</a></li>
+							<li><a class="keyword" href="/list/tagName/%E3%82%B2%E3%83%BC%E3%83%A0">ゲーム</a></li>
+							<li><a class="keyword" href="/list/tagName/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF">初音ミク</a></li>
+							<li><a class="keyword" href="/list/tagName/%E5%B0%8F%E8%AA%AC">小説</a></li>
+							<li><a class="keyword" href="/list/tagName/%E9%89%84%E9%81%93">鉄道</a></li>
+							<li><a class="keyword" href="/list/tagName/%E6%AD%8C%E8%AC%A1%E6%9B%B2">歌謡曲</a></li>
+							<li><a class="keyword" href="/list/tagName/%E3%82%A2%E3%83%8B%E3%82%BD%E3%83%B3">アニソン</a></li>
+							<li><a class="keyword" href="/list/tagName/%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D">おもしろ</a></li>
+							<li><a class="keyword" href="/list/tagName/%E9%A7%85%E5%90%8D">駅名</a></li>
+							<li><a class="keyword" href="/list/tagName/%E7%B0%A1%E5%8D%98">簡単</a></li>
+							<li><a class="keyword" href="/list/tagName/%E6%BC%94%E6%AD%8C">演歌</a></li>
+							<li><a class="keyword" href="/list/tagName/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB">アイドル</a></li>
+							<li><a class="keyword" href="/list/tagName/%E5%85%AC%E5%BC%8F%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA">公式シリーズ</a></li>
+							<li><a class="keyword" href="/list/tagName/j-pop">j-pop</a></li>
+							<li><a class="keyword" href="/list/tagName/%E5%AD%A6%E7%BF%92">学習</a></li>
+							<li><a class="keyword" href="/list/tagName/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%AB%E3%83%AB">ミュージカル</a></li>
+							<li><a class="keyword" href="/list/tagName/%E6%AD%8C%E3%81%84%E6%89%8B">歌い手</a></li>
+							<li><a class="keyword" href="/list/tagName/%E5%88%9D%E5%BF%83%E8%80%85">初心者</a></li>
+							<li><a class="keyword" href="/list/tagName/%E5%B5%90">嵐</a></li>
+							<li><a class="keyword" href="/list/tagName/%E5%90%8D%E5%89%8D">名前</a></li>
+							<li><a class="keyword" href="/list/tagName/K-POP">K-POP</a></li>
+							<li><a class="keyword" href="/list/tagName/%E6%96%87%E8%B1%AA">文豪</a></li>
+							<li><a class="keyword" href="/list/tagName/%E5%85%AC%E5%BC%8F%E6%AF%8E%E9%80%B1">公式毎週</a></li>
+							<li><a class="keyword" href="/list/tagName/%E3%82%BB%E3%83%AA%E3%83%95">セリフ</a></li>
+							<li><a class="keyword" href="/list/tagName/%E6%87%90%E3%83%A1%E3%83%AD">懐メロ</a></li>
+							<li><a class="keyword" href="/list/tagName/%E5%8A%87%E5%9B%A3%E5%9B%9B%E5%AD%A3">劇団四季</a></li>
+							<li><a class="keyword" href="/list/tagName/%E5%90%8D%E8%A8%80">名言</a></li>
+							<li><a class="keyword" href="/list/tagName/%E6%9D%B1%E6%96%B9">東方</a></li>
+							<li><a class="keyword" href="/list/tagName/%E5%A3%B0%E5%84%AA">声優</a></li>
+							<li><a class="keyword" href="/list/tagName/%E3%83%90%E3%83%B3%E3%83%89">バンド</a></li>
+							<li><a class="keyword" href="/list/tagName/%E6%96%87%E5%AD%A6">文学</a></li>
+							<li><a class="keyword" href="/list/tagName/%E6%97%A9%E6%89%93%E3%81%A1">早打ち</a></li>
+							<li><a class="keyword" href="/list/tagName/%E9%80%A3%E6%89%93">連打</a></li>
+							<li><a class="keyword" href="/list/tagName/%E5%8D%98%E8%AA%9E">単語</a></li>
+							<li><a class="keyword" href="/list/tagName/%E3%82%AD%E3%83%A3%E3%83%A9%E5%90%8D">キャラ名</a></li>
+							<li><a class="keyword" href="/list/tagName/GUMI">GUMI</a></li>
+							<li><a class="keyword" href="/list/tagName/V%E7%B3%BB">V系</a></li>
+							<li><a class="keyword" href="/list/tagName/%E9%96%A2%E3%82%B8%E3%83%A3%E3%83%8B%E2%88%9E">関ジャニ∞</a></li>
+							<li><a class="keyword" href="/list/tagName/OP">OP</a></li>
+								</ul>
+	</div>
+
+			</div>
+
+	<div class="clear"></div>
+</div>
+<!-- JSアクセス用 -->
+	<input type="hidden" id="userId" name="userId" value="0" />
+	<input type="hidden" id="limitPass" name="limitPass" value="" />
+<input type="hidden" id="gameId" name="gameId" value="168470" />
+<input type="hidden" id="bookmarkGameId" name="bookmarkGameId" value="70161" />
+<input type="hidden" id="isUserBookmarkedGame" name="isUserBookmarkedGame" value="" />
+<input type="hidden" id="baseUrl" name="baseUrl" value="https://typing.twi1.me/" />
+<input type="hidden" id="title" name="title" value="10月のタイピング診断" />
+</div>
+<footer id="commonFooter">
+<div id="footerLinks"><span><a href="/">タイピング練習の「マイタイピング」</a></span><span><a href="/support/terms-of-use/">利用規約</a></span><span><a href="/support/mail/">お問い合わせ</a></span></div>
+<div id="copyright">Copyright &copy; 2012-2021 マイタイピング. All Rights Reserved.</div>
+</footer>
+</body>
+</html>
